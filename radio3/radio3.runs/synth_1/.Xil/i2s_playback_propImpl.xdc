@@ -1,0 +1,23 @@
+set_property SRC_FILE_INFO {cfile:C:/Users/thakk/radio3/radio3.srcs/constrs_1/new/top.xdc rfile:../../../radio3.srcs/constrs_1/new/top.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:1 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN E3 IOSTANDARD LVCMOS33 } [get_ports {clock}];
+set_property src_info {type:XDC file:1 line:5 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN H14 IOSTANDARD LVCMOS33 } [get_ports { sclk_dac }]; #IO_L21N_T3_DQS_A18_15 Sch=ja[2]
+set_property src_info {type:XDC file:1 line:7 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN G16 IOSTANDARD LVCMOS33 } [get_ports { ldac }]; #IO_L21P_T3_DQS_15 Sch=ja[3]
+set_property src_info {type:XDC file:1 line:9 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN F16 IOSTANDARD LVCMOS33 } [get_ports { sd_tx }]; #IO_L18N_T2_A23_15 Sch=ja[4]
+set_property src_info {type:XDC file:1 line:11 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN D14 IOSTANDARD LVCMOS33 } [get_ports { cs }]; #IO_L20N_T3_A19_15 Sch=ja[1]
+set_property src_info {type:XDC file:1 line:15 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN E17 IOSTANDARD LVCMOS33 } [get_ports { ws }]; #IO_L21N_T3_DQS_A18_15 Sch=ja[2]
+set_property src_info {type:XDC file:1 line:17 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN F18 IOSTANDARD LVCMOS33 } [get_ports { sclk }]; #IO_L21P_T3_DQS_15 Sch=ja[3]
+set_property src_info {type:XDC file:1 line:19 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN G18 IOSTANDARD LVCMOS33 } [get_ports { sd_rx }]; #IO_L18N_T2_A23_15 Sch=ja[4]
+set_property src_info {type:XDC file:1 line:21 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN D17 IOSTANDARD LVCMOS33 } [get_ports { mclk }]; #IO_L20N_T3_A19_15 Sch=ja[1]
+set_property src_info {type:XDC file:1 line:23 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict {PACKAGE_PIN J15 IOSTANDARD LVCMOS33} [get_ports {reset_n}];
+set_property src_info {type:XDC file:1 line:25 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict {PACKAGE_PIN L16 IOSTANDARD LVCMOS33} [get_ports {adder}];
