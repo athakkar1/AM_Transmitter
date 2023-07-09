@@ -20,5 +20,5 @@ Below is a picture of our testbench, which was mainly used to test the timings f
 ![testbench](testbench%20(1).png)
 
 Below is a video of our transmitter in action:
-![video](https://github.com/athakkar1/AM_Transmitter/assets/96598825/30c30c8c-5aab-4813-ae89-f5aebbb0f6e8)
+[video](https://github.com/athakkar1/AM_Transmitter/assets/96598825/30c30c8c-5aab-4813-ae89-f5aebbb0f6e8)
 
