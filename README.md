@@ -9,11 +9,11 @@ Below is a block diagram describing our transmitter:
 ![block_diagram](project_block.png)
 
 Below are pictures of the final project:
-![overall](Overall.png)
+![overall](Overall.PNG)
 
-![FPGA](FPGA.png)
+![FPGA](FPGA.PNG)
 
-![Mic](Mic.png)
+![Mic](Mic.PNG)
 
 Below is a picture of our testbench, which was mainly used to test the timings for all our components:
-![testbench]("testbench (1).png")
+![testbench](testbench (1).png)
