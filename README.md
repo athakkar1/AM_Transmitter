@@ -8,7 +8,8 @@ Our VHDL modules and testbench can be found [here](/radio3/radio3.srcs/sources_1
 Below is a block diagram describing our transmitter:
 ![block_diagram](project_block.png)
 
-Below are pictures of the final project:
+Below are pictures of the final project:  
+
 ![overall](Overall.PNG)
 
 ![FPGA](FPGA.PNG)
