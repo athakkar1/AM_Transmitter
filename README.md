@@ -17,4 +17,4 @@ Below are pictures of the final project:
 ![Mic](Mic.PNG)
 
 Below is a picture of our testbench, which was mainly used to test the timings for all our components:
-![testbench](testbench (1).png)
+![testbench](testbench%20(1).png)
